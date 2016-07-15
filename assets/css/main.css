@@ -2706,7 +2706,7 @@
 			}
 
 				#header header a:hover {
-					color: #ffffff !important;
+					color: #000000 !important;
 				}
 
 			#header header h1 {
@@ -2759,7 +2759,7 @@
 
 		#footer footer {
 			bottom: 2em;
-			color: rgba(0, 0, 0, 0.5);
+			color: rgba(0, 0, 0, 0.6);
 			left: 0;
 			position: absolute;
 			text-align: center;
@@ -2775,11 +2775,11 @@
 			}
 
 				#footer footer a:hover {
-					color: #ffffff !important;
+					color: #000000 !important;
 				}
 
 			#footer footer .copyright {
-				font-size: 0.8em;
+				font-size: 1em;
 				line-height: 1em;
 				padding: 0;
 			}
