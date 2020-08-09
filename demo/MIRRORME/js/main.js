@@ -199,6 +199,8 @@ var HomeScene = function (a) {
 	
 	// play background music
 	bgSound.play();
+	// Start the bgMusic at 10%
+	adjustVolume(0.1); 
 	
 	var homeCtr = new createjs.Container;
 	stage.addChild(homeCtr);
